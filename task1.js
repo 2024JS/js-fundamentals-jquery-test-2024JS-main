@@ -5,6 +5,5 @@
 
 // Завдання виділене вставкою Task1
 
-
 $('h2.head').css('background', 'green');
 $('h2.head .inner').css('fontSize', '35px')

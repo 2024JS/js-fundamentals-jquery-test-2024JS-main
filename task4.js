@@ -6,7 +6,6 @@
 // Завдання виділене вставкою Task4
 let selectedCount = 0;
 
-
 $('input[type="checkbox"]').on('change', function() {
     if ($(this).is(':checked')) {        
         selectedCount++;
